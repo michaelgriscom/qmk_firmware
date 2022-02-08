@@ -210,7 +210,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 
 #define MIRYOKU_ALTERNATIVES_NUM_FLIP \
-RESET,             U_NA,              U_NA,              U_NA,              U_NA,              KC_LBRC,           KC_7,              KC_8,              KC_9,              KC_RBRC,           \
+KC_1,              KC_2,              KC_3,              KC_4,              KC_5,              KC_6,              KC_7,              KC_8,              KC_9,              KC_0,           \
 KC_LCTL,           KC_LALT,           KC_LGUI,           KC_LSFT,           U_NA,              KC_EQL,            KC_4,              KC_5,              KC_6,              KC_SCLN,           \
 U_NA,              KC_ALGR,           U_NA,              U_NA,              U_NA,              KC_BSLS,           KC_1,              KC_2,              KC_3,              KC_GRV,            \
 U_NP,              U_NP,              U_NA,              U_NA,              U_NA,              KC_MINS,           KC_DOT,              KC_0,            U_NP,              U_NP
